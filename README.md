@@ -11,13 +11,13 @@
 
 ## Projects
 
-- Tower Defense Game
-- Pokeball Go
-- Hello Pikachu
+- [Tower Defense Game](https://github.com/eliotjang/Tower_Defense_Game)
+- [Pokeball Go](https://github.com/eliotjang/Pokeball-Go)
+- [Hello Pikachu](https://github.com/eliotjang/Hello-Pikachu)
 
 ## 해야할 것
 
-- TextRPG ( 코드네이밍, C# 기초, 파일및폴더 관리 경험, Visual Studio for Mac 이해)
+- TextRPG ( 코드네이밍, C# 기초, 파일 및 폴더 관리 경험, Visual Studio for Mac 이해)
 - 직접 개발한 물리엔진을 이용하여 만든 공 튀기기게임 ( 물리엔진 개발 경험)
 - 실시간 대전 게임 (서버 개발 경험)
 - OpenGL/DirectX ( 쉐이더 및 그래픽 관련 개념 이해 )
