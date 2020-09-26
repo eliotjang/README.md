@@ -4,6 +4,7 @@
 
 - C#
 - C/C++
+- Python
 
 ## Projects
 
