@@ -1,14 +1,20 @@
 ## Skills 
 
+### Framework
+
+- Spring
+
 ### Language 
 
 - C#
-- C/C++
+- Java
 - Python
 
 ## Projects
 
-- [Tower Defense Game](https://github.com/eliotjang/Tower_Defense_Game)
+- [타워 디펜스 게임](https://github.com/eliotjang/Tower_Defense_Game)
+- [AI를 활용한 보행 이상 분석 연구(전처리 파트)](https://github.com/eliotjang/CSE_Graduation_Project)
+- [익명 SNS 어플리케이션](https://github.com/eliotjang/Anonymous_SNS_Application)
 
 ## Education
 
