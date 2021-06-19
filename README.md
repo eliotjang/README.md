@@ -6,19 +6,17 @@
 
 ### Language 
 
-- C#
 - Java
 - Python
 
 ## Projects
 
-- [타워 디펜스 게임](https://github.com/eliotjang/Tower_Defense_Game)
 - [AI를 활용한 보행 이상 분석 연구(전처리 파트)](https://github.com/eliotjang/CSE_Graduation_Project)
 - [익명 SNS 어플리케이션](https://github.com/eliotjang/Anonymous_SNS_Application)
 
 ## Education
 
-- 2021, 육군 소위 임관(정보통신)
+- 2021 ~ 2023, 육군 장교 복무(정보통신)
 - 2017 ~ 2020, 강릉원주대학교(원주캠퍼스)
 - 2014 ~ 2016, 서울오산고등학교
 - 2011 ~ 2013, 무학중학교
