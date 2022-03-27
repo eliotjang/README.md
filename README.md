@@ -1,23 +1,20 @@
 ## Skills 
 
-### Framework
+### Engine
 
-- Flask
-- Spring
+- Unity
 
 ### Language 
 
-- Python
-- Java
+- C#
 
 ## Projects
 
-- [AI를 활용한 보행 이상 분석 연구(전처리 파트)](https://github.com/eliotjang/CSE_Graduation_Project)
-- [익명 SNS 어플리케이션](https://github.com/eliotjang/Anonymous_SNS_Application)
+- [타워 디펜스](https://github.com/eliotjang/tower-defense-game)
 
 ## Education
 
-- 2021 ~ 2023, 육군 장교 복무(정보통신)
+- 2021 ~ 2023, 육군 장교 통신소대장 복무
 - 2017 ~ 2020, 강릉원주대학교(원주캠퍼스)
 - 2014 ~ 2016, 서울오산고등학교
 - 2011 ~ 2013, 무학중학교
