@@ -2,11 +2,7 @@
 
 ### Engine
 
-- Unity
-
 ### Language 
-
-- C#
 
 ## Projects
 
