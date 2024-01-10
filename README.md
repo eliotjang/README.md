@@ -9,7 +9,7 @@
 
 ## Projects
 
-- [타워 디펜스](https://github.com/eliotjang/tower-defense-game)
+- [타워 디펜스 게임](https://github.com/eliotjang/tower-defense-game)
 
 ## Education
 - 2022.6 ~ 2023.6, 육군 정보통신대대 지휘통제장교 복무
