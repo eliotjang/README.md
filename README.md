@@ -18,9 +18,9 @@
 - 2017.3 ~ 2021.2, 국립 강릉원주대학교
 
 ## Certification
-- 정보처리기사
-- Toeic Speaking AL
-- Toeic 730
+- 정보처리기사, 2020.11.
+- Toeic 730, 2023.12.
+- Toeic Speaking AL, 2024.1.
 - - -
 
 [![Eliot's github stats](https://github-readme-stats.vercel.app/api?username=eliotjang)](https://github.com/anuraghazra/github-readme-stats)
