@@ -12,9 +12,11 @@
 
 - [타워 디펜스 게임](https://github.com/eliotjang/tower-defense-game)
 
-## Education
+## Work Experience
 - 2022.6 ~ 2023.6, 정보통신대대 작전장교 복무
 - 2021.3 ~ 2022.6, 보병대대 통신소대장 복무
+
+## Education
 - 2017.3 ~ 2021.2, 국립 강릉원주대학교
 
 ## Certification
