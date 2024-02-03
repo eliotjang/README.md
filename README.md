@@ -1,6 +1,7 @@
 ## Portfolio
 
  - [노션 포트폴리오](https://eliotjang.notion.site/00986d1563014726a168fb367f4eff6d?pvs=4)
+ - [기술 블로그](https://velog.io/@eliotjang)
 
 ## Skills 
 
