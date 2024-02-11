@@ -6,8 +6,8 @@
 ## Skills 
 
 ### Engine
-- Unity
 - Unreal Engine
+- Unity
 
 ### Language 
 - C++
@@ -17,12 +17,14 @@
 
 - [타워 디펜스 게임](https://github.com/eliotjang/tower-defense-game)
 
-## Work Experience
-- 2022.6 ~ 2023.6, 정보통신대대 작전장교 복무
-- 2021.3 ~ 2022.6, 보병대대 통신소대장 복무
+## Activities
+- 2020.3 ~ 2020.12, AI 활용 보행이상 분석 연구
+- 2020.11, 강원대학교 주관 해커톤 참가
+- 2020.6, 강원지역 청소년 진로체험 강사
 
 ## Education
 - 2017.3 ~ 2021.2, 국립 강릉원주대학교
+- 2014.3 ~ 2017.2, 서울 오산고등학교
 
 ## Certification
 - 정보처리기사, 2020.11.
