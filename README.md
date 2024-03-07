@@ -12,10 +12,15 @@
 ### Language 
 - C++
 - C#
+- Java
 
 ## Projects
 
 - [타워 디펜스 게임](https://github.com/eliotjang/tower-defense-game)
+- [자바 채팅 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
+- [초고속 컴퓨팅 실습](https://github.com/eliotjang/CSE_High_Performance_Computing_Lecture)
+- [데이터베이스 설계 실습](https://github.com/eliotjang/CSE_Database_Lecture)
+- [마이크로 프로세서 실습](https://github.com/eliotjang/CSE_MicroProcessor_Lecture)
 
 ## Activities
 - 2022.6. ~ 2023.6. 통신대대 작전장교 복무
