@@ -9,7 +9,6 @@
 - C++
 - C#
 - Java
-- SQL
   
 ### Tools
 - ASP .NET Core
@@ -17,7 +16,6 @@
 
 ### Hard Skills
 - Web / Socket Programming
-- Database
 
 ## Projects
 
