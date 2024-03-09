@@ -19,30 +19,31 @@
 - Web / Socket Programming
 - Database
 
-## Main Projects
+## Projects
 
+### Main Projects
 - [소켓서버 방식 자바 채팅 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
-- [웹서버 방식 Todo-List 구현 싫습]()
+- [웹서버 방식 Todo-List 구현 실습]()
 - [타워 디펜스 게임](https://github.com/eliotjang/tower-defense-game)
 
-## Sub Projects
+### Sub Projects
 - [초고속 컴퓨팅 실습](https://github.com/eliotjang/CSE_High_Performance_Computing_Lecture)
 - [데이터베이스 설계 실습](https://github.com/eliotjang/CSE_Database_Lecture)
 - [마이크로 프로세서 실습](https://github.com/eliotjang/CSE_MicroProcessor_Lecture)
 
 ## Career
 - 제53사단 정보통신대대 지휘통제장교 복무, 2022.6 ~ 2023.6
-  - 사단 및 예하대대 국방망 관제 및 조치
+ - 사단 및 예하대대 국방망 관제 및 조치
 - 제35사단 106-2대대 통신소대장 복무, 2021.6 ~ 2022.6
-  - 국방망, 전장망 서버 및 통신장비 관리
+ - 국방망, 전장망 서버 및 통신장비 관리
 
 ## Activities
 - 육군 정보통신학교 교육 수료, 2021.6
-  - 정보통신공학 이론, 네트워크 운용, 운용체제, 서버 관리
+ - 정보통신공학 이론, 네트워크 운용, 운용체제, 서버 관리
 - 강원대학교 주관 해커톤 참가, 2020.11
-  - 익명 SNS 어플리케이션 제작
+ - 익명 SNS 어플리케이션 제작
 - 강원지역 청소년 진로체험 강사, 2020.6
-  - Text 기반 RPG 게임 제작 소개 및 체험
+ - Text 기반 RPG 게임 제작 소개 및 체험
 - 컴퓨터공학 1학년 과대표 선출, 2017.3
 - 서울 오산고등학교 전교회장 선출, 2016
 
