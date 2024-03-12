@@ -22,7 +22,7 @@
 ### Main Projects
 - [소켓서버 방식 자바 채팅 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
 - [웹서버 방식 Todo-List 구현 실습]()
-- [타워 디펜스 게임 제작](https://github.com/eliotjang/tower-defense-game)
+- [Unity 타워 디펜스 게임 제작](https://github.com/eliotjang/tower-defense-game)
 
 ### Sub Projects
 - [초고속 컴퓨팅 실습](https://github.com/eliotjang/CSE_High_Performance_Computing_Lecture)
