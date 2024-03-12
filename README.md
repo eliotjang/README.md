@@ -16,7 +16,6 @@
 
 ### Hard Skills
 - Web / Socket Programming
-- SQL
 
 ## Projects
 
