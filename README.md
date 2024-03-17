@@ -1,4 +1,4 @@
-## Portfolio
+## 게임 서버 개발자 장성원 포트폴리오
 
  - [노션 포트폴리오](https://eliotjang.notion.site/1c293c460e6b4f2e8af791ffb6a5a9f7?pvs=4)
  - [기술 블로그](https://velog.io/@eliotjang)
