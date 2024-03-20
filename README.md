@@ -12,6 +12,7 @@
   
 ### Tools
 - ASP .NET Core
+- .Net Framework
 - Unity
 
 ### Hard Skills
@@ -20,9 +21,10 @@
 ## Projects
 
 ### Main Projects
-- [소켓서버 방식 자바 채팅 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
+- [FreeNet 라이브러리 사용 온라인 게임 서버 실습](https://github.com/eliotjang/Online_Game_Server_with_TCP_Socket)
 - [웹서버 방식 Todo-List 구현 실습](https://github.com/eliotjang/Minimal_API_with_ASP.NET_Core)
-- [SuperSocketLite 라이브러리 사용 서버 실습](https://github.com/eliotjang/Echo_Server_with_SuperSocketLite)
+- [SuperSocketLite 라이브러리 사용 에코 서버 실습](https://github.com/eliotjang/Echo_Server_with_SuperSocketLite)
+- [자바 채팅 소켓 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
 - [Unity 타워 디펜스 게임 제작](https://github.com/eliotjang/tower-defense-game)
 
 ### Sub Projects
@@ -38,7 +40,7 @@
 
 ## Activities
 - [교육] 육군 정보통신학교 교육 수료, 2021.6
-  - 정보통신공학 이론, 네트워크 운용, 운용체제, 서버 관리
+  - 정보통신공학 이론, 네트워크 운용, 운영체제, 서버 관리
 - [컨퍼런스] 강원대학교 주관 해커톤 참가, 2020.11
    - 익명 SNS 어플리케이션 제작
 - [프로그램] 강원지역 청소년 진로체험 강사, 2020.6
@@ -51,9 +53,9 @@
 - 서울 오산고등학교, 2014.3 ~ 2017.2
 
 ## Certification
-- 정보처리기사, 2020.11
-- Toeic 730, 2023.12
-- Toeic Speaking AL(Advanced Low), 2024.1
+- [정보처리기사, 2020.11](https://drive.google.com/file/d/1897HMcN20kreogNzTuxH2Is_FV1HS1Zv/view?usp=sharing)
+- [Toeic 730](https://drive.google.com/file/d/11Vg8UXt-S2F2wMSt2wQmxe_KWbi34q6V/view?usp=sharing), 2023.12
+- [Toeic Speaking AL(Advanced Low)](https://drive.google.com/file/d/11Vg8UXt-S2F2wMSt2wQmxe_KWbi34q6V/view?usp=sharing), 2024.1
 - - -
 
 [![Eliot's github stats](https://github-readme-stats.vercel.app/api?username=eliotjang)](https://github.com/anuraghazra/github-readme-stats)
