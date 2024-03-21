@@ -11,26 +11,18 @@
 - Java
   
 ### Tools
-- ASP .NET Core
 - .Net Framework
+- ASP .NET Core
 - Unity
 
 ### Hard Skills
 - Web / Socket Programming
 
-## Projects
-
-### Main Projects
-- [FreeNet 라이브러리 사용 온라인 게임 서버 실습](https://github.com/eliotjang/Online_Game_Server_with_TCP_Socket)
-- [웹서버 방식 Todo-List 구현 실습](https://github.com/eliotjang/Minimal_API_with_ASP.NET_Core)
-- [SuperSocketLite 라이브러리 사용 에코 서버 실습](https://github.com/eliotjang/Echo_Server_with_SuperSocketLite)
-- [자바 채팅 소켓 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
-- [Unity 타워 디펜스 게임 제작](https://github.com/eliotjang/tower-defense-game)
-
-### Sub Projects
-- [초고속 컴퓨팅 실습](https://github.com/eliotjang/CSE_High_Performance_Computing_Lecture)
-- [데이터베이스 설계 실습](https://github.com/eliotjang/CSE_Database_Lecture)
-- [마이크로 프로세서 실습](https://github.com/eliotjang/CSE_MicroProcessor_Lecture)
+## Main Projects
+- [FreeNet 오픈소스 사용 온라인 게임 서버 실습](https://github.com/eliotjang/Online_Game_Server_with_TCP_Socket)
+- [SuperSocketLite 오픈소스 사용 에코 서버 실습](https://github.com/eliotjang/Echo_Server_with_SuperSocketLite)
+- [ASP.NET Core 웹서버 방식 Todo-List 구현 실습](https://github.com/eliotjang/Minimal_API_with_ASP.NET_Core)
+- [소켓서버 방식 자바 채팅 소켓 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
 
 ## Career
 - 제53사단 정보통신대대 지휘통제장교 복무, 2022.6 ~ 2023.6
