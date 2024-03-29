@@ -8,7 +8,6 @@
 ### Language 
 - C++
 - C#
-- Java
   
 ### Tools
 - .Net Framework
