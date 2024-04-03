@@ -15,9 +15,6 @@
 - Unity
 - Unreal Engine
 
-### Hard Skills
-- Web / Socket Programming
-
 ## Main Projects
 - [FreeNet 오픈소스 사용 온라인 게임 서버 실습](https://github.com/eliotjang/Online_Game_Server_with_TCP_Socket)
 - [SuperSocketLite 오픈소스 사용 에코 서버 실습](https://github.com/eliotjang/Echo_Server_with_SuperSocketLite)
