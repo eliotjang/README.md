@@ -38,13 +38,6 @@
 - [소켓서버 방식 자바 채팅 소켓 프로그래밍](https://github.com/eliotjang/CSE_Java_Chatting_Programming_Lecture)
 - [타워 디펜스 장르 게임 제작](https://github.com/eliotjang/tower-defense-game)
 
-## Career
-
-- 제53사단 정보통신대대 지휘통제장교 복무, 2022.6 ~ 2023.6
-  - 부산시청 통합방위작전소 네트워크 구성
-- 제35사단 106-2대대 통신소대장 복무, 2021.6 ~ 2022.6
-  - 전주대대 서버 및 네트워크 관리
-
 ## Activities
 
 - [교육] 육군 정보통신학교 교육 수료, 2021.6
