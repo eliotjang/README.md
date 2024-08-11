@@ -25,10 +25,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### ORM
-
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
 ---
 
 [![Eliot's github stats](https://github-readme-stats.vercel.app/api?username=eliotjang)](https://github.com/anuraghazra/github-readme-stats)
