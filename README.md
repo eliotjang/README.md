@@ -1,7 +1,7 @@
 ## Portfolio
 
-- [이력서](https://eliotjang.notion.site/1c293c460e6b4f2e8af791ffb6a5a9f7?pvs=4)
-- [프로젝트 포트폴리오]()
+- 이력서 (수정중)
+- 프로젝트 포트폴리오(수정중)
 - [기술 블로그](https://velog.io/@eliotjang)
 
 ## Skills
