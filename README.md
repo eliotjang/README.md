@@ -37,5 +37,3 @@
 ---
 
 [![Eliot's github stats](https://github-readme-stats.vercel.app/api?username=eliotjang)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feliotjang)](https://hits.seeyoufarm.com)
