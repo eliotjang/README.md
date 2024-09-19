@@ -1,7 +1,6 @@
 ## Portfolio
 
-- 이력서 (수정중)
-- 프로젝트 포트폴리오(수정중)
+- [이력서](https://eliotjang.notion.site/f4eabd03f0c049a7a6c7b9fd57a3037e?pvs=4)
 - [기술 블로그](https://velog.io/@eliotjang)
 
 ## Skills
@@ -14,7 +13,7 @@
 ### Socket Programming
 
 ![TCP/IP](https://img.shields.io/badge/TCP-IP-white?style=for-the-badge&logo=tcp/ip&badgeColor=010101)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Runtime / Framework
 
