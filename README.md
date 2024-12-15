@@ -1,6 +1,6 @@
 ## Portfolio
 
-- [이력서](https://eliotjang.notion.site/f4eabd03f0c049a7a6c7b9fd57a3037e?pvs=4)
+- [이력서](https://eliotjang.notion.site/15d6b79eb40f80ff806fc7626a102b14?pvs=4)
 - [기술 블로그](https://velog.io/@eliotjang)
 
 ## Skills
