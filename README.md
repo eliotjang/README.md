@@ -1,8 +1,3 @@
-## Portfolio
-
-- [이력서](https://eliotjang.notion.site/15d6b79eb40f80ff806fc7626a102b14?pvs=4)
-- [기술 블로그](https://velog.io/@eliotjang)
-
 ## Skills
 
 ### Programming Language
